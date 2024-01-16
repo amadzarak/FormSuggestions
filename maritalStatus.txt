@@ -1,0 +1,9 @@
+annulled
+divorced
+interlocutory
+legally_separated
+married
+polygamous
+never_married
+domestic_partner
+unknown
